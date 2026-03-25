@@ -1,0 +1,9 @@
+pandas
+transformers
+scikit-learn
+requests
+beautifulsoup4
+wikipedia
+fake-useragent
+flask
+torch
